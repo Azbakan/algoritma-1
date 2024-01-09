@@ -1,0 +1,7 @@
+C:\Users\CJ\Desktop\Programlama\faktoriyel hesaplama\faktoriyel hesaplama\bin\Debug\faktoriyel hesaplama.exe.config
+C:\Users\CJ\Desktop\Programlama\faktoriyel hesaplama\faktoriyel hesaplama\bin\Debug\faktoriyel hesaplama.exe
+C:\Users\CJ\Desktop\Programlama\faktoriyel hesaplama\faktoriyel hesaplama\bin\Debug\faktoriyel hesaplama.pdb
+C:\Users\CJ\Desktop\Programlama\faktoriyel hesaplama\faktoriyel hesaplama\obj\Debug\faktoriyel hesaplama.csproj.AssemblyReference.cache
+C:\Users\CJ\Desktop\Programlama\faktoriyel hesaplama\faktoriyel hesaplama\obj\Debug\faktoriyel hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\CJ\Desktop\Programlama\faktoriyel hesaplama\faktoriyel hesaplama\obj\Debug\faktoriyel hesaplama.exe
+C:\Users\CJ\Desktop\Programlama\faktoriyel hesaplama\faktoriyel hesaplama\obj\Debug\faktoriyel hesaplama.pdb
